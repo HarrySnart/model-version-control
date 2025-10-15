@@ -1,0 +1,1 @@
+{"schema": [{"dtype": "int64", "feature_type": "Integer", "name": 0, "domain": {"values": "Integer", "stats": {"count": 112.0, "mean": 1.0, "standard deviation": 0.8274567569877502, "sample minimum": 0.0, "lower quartile": 0.0, "median": 1.0, "upper quartile": 2.0, "sample maximum": 2.0}, "constraints": []}, "required": true, "description": "0", "order": 0}], "version": "1.1"}
