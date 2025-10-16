@@ -8,3 +8,4 @@ This repo shows examples of using Model Version Sets in OCI Data Science to vers
 - downloading model artefacts from a version set
 - scoring the labelled champion model at inference time
 
+Blog avaialable here: https://medium.com/data-science-collective/model-version-control-in-oci-data-science-9e2c580db70d
